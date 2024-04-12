@@ -87,9 +87,9 @@
 			<div class="collapse navbar-collapse" id="navbarCollapse">
 				<div class="navbar-nav ms-auto py-0">
 					<a href="#" class="nav-item nav-link active">Home</a> <a
-						href="#section1" class="nav-item nav-link">About</a> <a
-						href="#section2" class="nav-item nav-link">Services</a> <a
-						href="#section3" class="nav-item nav-link">Contact</a>
+						href="about.html" class="nav-item nav-link">About</a> <a
+						href="service.html" class="nav-item nav-link">Services</a> <a
+						href="contect.html" class="nav-item nav-link">Contact</a>
 				</div>
 
 			</div>
@@ -267,7 +267,7 @@
 							</div>
 							<div class="ps-4">
 								<h5 class="mb-2">Call to ask any question</h5>
-								<h4 class="text-primary mb-0">+91-7900164783</h4>
+								<h4 class="text-primary mb-0">+91-8391970037</h4>
 							</div>
 						</div>
 						<a href="quote.html"
@@ -307,7 +307,7 @@
 								style="width: 60px; height: 60px;">
 								<i class="fa fa-cubes text-white"></i>
 							</div>
-							<h4>Best In Industry</h4>
+							<h4>Best Digital Solution Provider</h4>
 							<p class="mb-0">Exemplary performance sets the standard,
 								making them the best in the industry.</p>
 						</div>
